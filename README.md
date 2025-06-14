@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/pratik-kumar04/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
 <a href="https://www.instagram.com/pratikkumar04/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white"></a>
 <a href="https://www.facebook.com/pr2tik1"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&amp;style=for-the-badge&amp;logo=facebook&amp;logoColor=white"></a>
-<a href="https://github.com/codernitinmn/codernitinmn"><img src="https://badges.pufler.dev/visits/pr2tik1/pr2tik1?style=for-the-badge" alt="Visits Badge"></a></p>
+<a href="https://github.com/codernitinmn/codernitinmn"><img src="https://badges.pufler.dev/visits/codernitinmn/codernitinmn?style=for-the-badge" alt="Visits Badge"></a></p>
 <p></p>
 </details>
 <hr>
