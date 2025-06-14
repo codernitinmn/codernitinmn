@@ -1,10 +1,10 @@
   <h2 id="hi--i-am-pratik">Hi 👋 I am Nitin!</h2>
-<p>I am a developer who is passionate about stuff like deep learning and data science. Few tech that I enjoy working in are Python, C++, Plotly-Dash, PyTorch, and  AWS. I am actively looking for opportunities in Data Science. Recently, I have just started with tech-blogging!</p>
+<p>I am a developer who is passionate about stuff like web devlopment. Few tech that I enjoy working in are React, Node js, Tailwind css and  MongoDB. I am actively looking for opportunities in MERN Stack. Recently, I have just started with tech-blogging!</p>
 <ul>
 <li>👨🏽‍💻 Currently working, learning and growing my skillset in Node js, MongoDb.</li>
-<li>🤝 Open for collaborations in deep learning, analytics and data science.</li>
+<!-- <li>🤝 Open for collaborations in deep learning, analytics and data science.</li> -->
 <li>😊 Willing to contribute in opensource development projects.</li>
-<li>👍 Looking for opportunities to join as an intern/full time in deep learning fields.</li>
+<!-- <li>👍 Looking for opportunities to join as an intern/full time in deep learning fields.</li> -->
 <!-- <li>👨 Know more about me at <a href="https://sourcerer.io/pr2tik1">Sourcerer</a></li> -->
 <li>🌐 Visit my <a href="https://github.com/codernitinmn">porfolio website</a> for complete background and contact.</li>
 </ul>
@@ -12,11 +12,11 @@
 <summary>🤝 <b>To connect with me</b></summary>
 <p align="center">
 </p><p><a href="https://codernitinmn.github.io/"><img src="https://img.shields.io/badge/portfolio-%23.svg?&amp;style=for-the-badge&amp;logo=&amp;logoColor=white%22"></a>
-<a href="https://twitter.com/Pratikpkb"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white"></a>
-<a href="https://medium.com/@pratikbaitha04"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&amp;style=for-the-badge&amp;logo=medium&amp;logoColor=white"></a>
-<a href="https://www.linkedin.com/in/pratik-kumar04/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
-<a href="https://www.instagram.com/pratikkumar04/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white"></a>
-<a href="https://www.facebook.com/pr2tik1"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&amp;style=for-the-badge&amp;logo=facebook&amp;logoColor=white"></a>
+<a href="https://twitter.com/coder_nitinmn"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white"></a>
+<a href="https://medium.com/@coder_nitinmn"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&amp;style=for-the-badge&amp;logo=medium&amp;logoColor=white"></a>
+<a href="https://www.linkedin.com/in/coder_nitinmn/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
+<a href="https://www.instagram.com/coder_nitinmn/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white"></a>
+<a href="https://www.facebook.com/coder_nitinmn"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&amp;style=for-the-badge&amp;logo=facebook&amp;logoColor=white"></a>
 <a href="https://github.com/codernitinmn/codernitinmn"><img src="https://badges.pufler.dev/visits/codernitinmn/codernitinmn?style=for-the-badge" alt="Visits Badge"></a></p>
 <p></p>
 </details>
@@ -78,10 +78,10 @@
 <hr>
 <details>
   <summary> <b>📱 Social Medias</b>:</summary>
-    <a href="https://www.linkedin.com/in/gabrielbittencourtpenteado/" target="_blank"><img src="https://img.shields.io/static/v1?label=&amp;message=Linkedin&amp;color=0A66C2&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=whitesmoke" alt="Linkedin"></a>
-    <a href="https://codepen.io/gabrlcj" target="_blank"><img src="https://img.shields.io/static/v1?label=&amp;message=Codepen&amp;color=%23000000&amp;style=for-the-badge&amp;logo=codepen&amp;logoColor=whitesmoke" alt="Codepen"></a>
-    <a href="https://dev.to/gabrlcj"><img src="https://img.shields.io/static/v1?label=&amp;message=DEV&amp;color=%230A0A0A&amp;style=for-the-badge&amp;logo=dev.to" alt="DEV"></a>
-    <a href="https://www.instagram.com/gabrlcj/" target="_blank"><img src="https://img.shields.io/static/v1?label=&amp;message=Instagram&amp;color=lightpink&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=black" alt="Instagram"></a>
+    <a href="https://www.linkedin.com/in/coder_nitinmn/" target="_blank"><img src="https://img.shields.io/static/v1?label=&amp;message=Linkedin&amp;color=0A66C2&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=whitesmoke" alt="Linkedin"></a>
+    <a href="https://codepen.io/coder_nitinmn" target="_blank"><img src="https://img.shields.io/static/v1?label=&amp;message=Codepen&amp;color=%23000000&amp;style=for-the-badge&amp;logo=codepen&amp;logoColor=whitesmoke" alt="Codepen"></a>
+    <a href="https://dev.to/coder_nitinmn"><img src="https://img.shields.io/static/v1?label=&amp;message=DEV&amp;color=%230A0A0A&amp;style=for-the-badge&amp;logo=dev.to" alt="DEV"></a>
+    <a href="https://www.instagram.com/coder_nitinmn/" target="_blank"><img src="https://img.shields.io/static/v1?label=&amp;message=Instagram&amp;color=lightpink&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=black" alt="Instagram"></a>
 </details>
 <hr>
 <hr>
