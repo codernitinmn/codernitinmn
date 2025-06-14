@@ -11,7 +11,7 @@
 <details>
 <summary>🤝 <b>To connect with me</b></summary>
 <p align="center">
-</p><p><a href="https://pr2tik1.github.io/"><img src="https://img.shields.io/badge/portfolio-%23.svg?&amp;style=for-the-badge&amp;logo=&amp;logoColor=white%22"></a>
+</p><p><a href="https://codernitinmn.github.io/"><img src="https://img.shields.io/badge/portfolio-%23.svg?&amp;style=for-the-badge&amp;logo=&amp;logoColor=white%22"></a>
 <a href="https://twitter.com/Pratikpkb"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white"></a>
 <a href="https://medium.com/@pratikbaitha04"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&amp;style=for-the-badge&amp;logo=medium&amp;logoColor=white"></a>
 <a href="https://www.linkedin.com/in/pratik-kumar04/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
@@ -25,14 +25,14 @@
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pr2tik1&amp;show_icons=true&amp;theme=tokyonight&amp;line_height=27">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr2tik1&amp;hide=css,java,html&amp;theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=codernitinmn&amp;show_icons=true&amp;theme=tokyonight&amp;line_height=27">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codernitinmn;hide=css,java,html&amp;theme=tokyonight">
 </p>
 </details>
 <details> 
  <summary><b>Featured Repos</b></summary>
 <p align="center">
-<a href="https://github.com/pr2tik1/pr2tik1"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pr2tik1&amp;repo=pr2tik1&amp;theme=tokyonight"></a> <a href="https://github.com/pr2tik1/sketch-recognition"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pr2tik1&amp;repo=sketch-recognition&amp;theme=tokyonight"></a> </p>
+<a href="https://github.com/codernitinmn/codernitinmn"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codernitinmn&amp;repo=codernitinmn&amp;theme=tokyonight"></a> <a href="https://github.com/codernitinmn/sketch-recognition"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codernitinmn&amp;repo=sketch-recognition&amp;theme=tokyonight"></a> </p>
 </details>
 <details open=""> 
  <summary>🤖 <b>My programming stats</b>: </summary>
@@ -66,5 +66,5 @@
 <!--END_SECTION:waka-->
 </details>
 <hr>
-<p>Credits: <a href="https://github.com/pr2tik1">pr2tik1</a></p>
+<p>Credits: <a href="https://github.com/codernitinmn">pr2tik1</a></p>
 <p>Last Edited on: 30/08/2020</p> 
