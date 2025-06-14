@@ -1,4 +1,4 @@
-  <h2 id="hi--i-am-pr2tik1">Hi 👋 I am Nitin!</h2>
+  <h2 id="hi--i-am-pratik">Hi 👋 I am Nitin!</h2>
 <p>I am a developer who is passionate about stuff like deep learning and data science. Few tech that I enjoy working in are Python, C++, Plotly-Dash, PyTorch, and  AWS. I am actively looking for opportunities in Data Science. Recently, I have just started with tech-blogging!</p>
 <ul>
 <li>👨🏽‍💻 Currently working, learning and growing my skillset in Node js, MongoDb.</li>
