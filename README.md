@@ -30,8 +30,7 @@
 </p>
 </details>
 <details> 
- <b> Skills</b>
-<br>
+ <summary> <b>Skills</b></summary>
 <p align="center">
 </p><ul>
 <li>
