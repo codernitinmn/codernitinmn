@@ -1,12 +1,12 @@
-  <h2 id="hi--i-am-pratik">Hi 👋 I am Pratik!</h2>
+  <h2 id="hi--i-am-nitin">Hi 👋 I am Nitin!</h2>
 <p>I am a developer who is passionate about stuff like deep learning and data science. Few tech that I enjoy working in are Python, C++, Plotly-Dash, PyTorch, and  AWS. I am actively looking for opportunities in Data Science. Recently, I have just started with tech-blogging!</p>
 <ul>
-<li>👨🏽‍💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.</li>
+<li>👨🏽‍💻 Currently working, learning and growing my skillset in Node js, MongoDb.</li>
 <li>🤝 Open for collaborations in deep learning, analytics and data science.</li>
 <li>😊 Willing to contribute in opensource development projects.</li>
 <li>👍 Looking for opportunities to join as an intern/full time in deep learning fields.</li>
-<li>👨 Know more about me at <a href="https://sourcerer.io/pr2tik1">Sourcerer</a></li>
-<li>🌐 Visit my <a href="https://pr2tik1.github.io/">porfolio website</a> for complete background and contact.</li>
+<!-- <li>👨 Know more about me at <a href="https://sourcerer.io/pr2tik1">Sourcerer</a></li> -->
+<li>🌐 Visit my <a href="https://github.com/codernitinmn">porfolio website</a> for complete background and contact.</li>
 </ul>
 <details>
 <summary>🤝 <b>To connect with me</b></summary>
