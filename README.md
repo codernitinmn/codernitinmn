@@ -30,39 +30,37 @@
 </p>
 </details>
 <details> 
- <summary><b>Featured Repos</b></summary>
-<p align="center">
-<a href="https://github.com/codernitinmn/codernitinmn"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codernitinmn&amp;repo=codernitinmn&amp;theme=tokyonight"></a> <a href="https://github.com/codernitinmn/sketch-recognition"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codernitinmn&amp;repo=sketch-recognition&amp;theme=tokyonight"></a> </p>
-</details>
-<details open=""> 
- <summary>🤖 <b>My programming stats</b>: </summary>
+ <h2 id="-skills"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"><b> Skills</b></h2>
 <br>
-<!--START_SECTION:waka-->
-<p><strong>I’m a night 🦉</strong></p>
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span>🌞 Morning    90 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.99% </span></span>
-<span class="line"><span>🌆 Daytime    144 commits    ███████░░░░░░░░░░░░░░░░░░   30.38% </span></span>
-<span class="line"><span>🌃 Evening    168 commits    ████████░░░░░░░░░░░░░░░░░   35.44% </span></span>
-<span class="line"><span>🌙 Night      72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.19%</span></span>
-<span class="line"><span></span></span></code></pre>
-<p>📅 <strong>I’m Most Productive on Sundays</strong></p>
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span>Monday       54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.39% </span></span>
-<span class="line"><span>Tuesday      51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.76% </span></span>
-<span class="line"><span>Wednesday    45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.49% </span></span>
-<span class="line"><span>Thursday     68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.35% </span></span>
-<span class="line"><span>Friday       73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.4% </span></span>
-<span class="line"><span>Saturday     87 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.35% </span></span>
-<span class="line"><span>Sunday       96 commits     █████░░░░░░░░░░░░░░░░░░░░   20.25%</span></span>
-<span class="line"><span></span></span></code></pre>
-<p>📊 <strong>This week I spent my time on</strong></p>
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span>💻 Operating Systems: </span></span>
-<span class="line"><span>Linux                    3 hrs 24 mins       █████████████████████████   100.0%</span></span>
-<span class="line"><span></span></span></code></pre>
-<p><strong>I mostly code in Jupyter Notebook</strong></p>
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span>Jupyter Notebook         8 repos             ████████████████░░░░░░░░░   66.67% </span></span>
-<span class="line"><span>C++                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% </span></span>
-<span class="line"><span>HTML                     1 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% </span></span>
-<span class="line"><span>Python                   1 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%</span></span>
-<span class="line"><span></span></span></code></pre>
+<p align="center">
+</p><ul>
+<li>
+<p><strong>Languages</strong>:</p>
+<p><img src="https://img.shields.io/badge/Dart-beginnner-blue?style=for-the-badge&amp;logo=dart&amp;logoColor=white" alt="Dart">
+<img src="https://img.shields.io/badge/Python-beginnner-%2314354C?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"></p>
+<br>
+</li>
+<li>
+<p><strong>Frameworks</strong>:</p>
+<p><img src="https://img.shields.io/badge/Flutter-beginnner-%232370ED?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" alt="Flutter"></p>
+</li>
+<li>
+<p><strong>Software</strong>:</p>
+<p><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/-Pop!__OS-cyan?style=for-the-badge&amp;logo=popos&amp;logoColor=black" alt="Pop!_OS">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="Visual Studio Code">
+<img src="https://img.shields.io/badge/Github-black?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Github">
+<img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&amp;logo=gnu-bash&amp;logoColor=white" alt="Terminal"></p>
+</li>
+<li>
+<p><strong>Hardware</strong>:</p>
+<p><img src="https://img.shields.io/badge/Intel-blue?style=for-the-badge&amp;logo=intel&amp;logoColor=white" alt="Intel">
+<img src="https://img.shields.io/badge/Nvidia-deepgreen?style=for-the-badge&amp;logo=nvidia&amp;logoColor=white" alt="Nvidia">
+<img src="https://img.shields.io/badge/dell-black?style=for-the-badge&amp;logo=dell&amp;logoColor=white" alt="Dell">
+<img src="https://img.shields.io/badge/logitech-white?style=for-the-badge&amp;logo=logitech&amp;logoColor=black" alt="Logitech"></p>
+</li>
+</ul>
 <!--END_SECTION:waka-->
 </details>
 <hr>
