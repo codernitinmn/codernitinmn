@@ -66,5 +66,5 @@
 <!--END_SECTION:waka-->
 </details>
 <hr>
-<p>Credits: <a href="https://github.com/codernitinmn">pr2tik1</a></p>
-<p>Last Edited on: 30/08/2020</p> 
+<p>Credits: <a href="https://github.com/codernitinmn">Nitin</a></p>
+<p>Last Edited on: 14/06/2025</p> 
