@@ -63,7 +63,7 @@
 <!--END_SECTION:waka-->
 </details>
 <details>
-<h3>🧰 Languages and tools I'm learning until now:</h3><br>
+<h3>🧰 Languages and tools I'm learning until now:</h3>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&amp;message=HTML5&amp;color=%23E34F26&amp;style=for-the-badge&amp;logo=html5&amp;logoColor=whitesmoke" alt="HTML5"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&amp;message=CSS3&amp;color=%231572B6&amp;style=for-the-badge&amp;logo=css3&amp;logoColor=whitesmoke" alt="CSS3"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&amp;message=SASS&amp;color=%23CC6699&amp;style=for-the-badge&amp;logo=sass&amp;logoColor=whitesmoke" alt="SASS"></a>
@@ -77,7 +77,7 @@
 </details>
 <hr>
 <details>
-  <h3>📱 Social Medias:</h3><br>
+  <h3>📱 Social Medias:</h3>
     <a href="https://www.linkedin.com/in/gabrielbittencourtpenteado/" target="_blank"><img src="https://img.shields.io/static/v1?label=&amp;message=Linkedin&amp;color=0A66C2&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=whitesmoke" alt="Linkedin"></a>
     <a href="https://codepen.io/gabrlcj" target="_blank"><img src="https://img.shields.io/static/v1?label=&amp;message=Codepen&amp;color=%23000000&amp;style=for-the-badge&amp;logo=codepen&amp;logoColor=whitesmoke" alt="Codepen"></a>
     <a href="https://dev.to/gabrlcj"><img src="https://img.shields.io/static/v1?label=&amp;message=DEV&amp;color=%230A0A0A&amp;style=for-the-badge&amp;logo=dev.to" alt="DEV"></a>
